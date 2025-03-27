@@ -54,3 +54,7 @@ Para permitir a comunicação entre as tarefas, é utilizada uma **fila**. A Tar
 ## Conclusão
 
 Este projeto demonstra como o FreeRTOS pode ser utilizado para criar um sistema simples de multitarefa, onde diferentes tarefas cooperam para realizar uma função comum. O uso do FreeRTOS torna o sistema mais modular, escalável e eficiente, permitindo a execução de múltiplas tarefas de forma sincronizada em um ambiente de hardware restrito.
+
+### Links úteis
+1. **Vídeo do Youtube**: [Acesso](https://youtu.be/1XSsnJAEhRQ)
+2. **Documento da atividade**: [Acesso](https://docs.google.com/document/d/1_wCkQJVf29yPwbY7FyBJqBMYHgU7HUSakIjI6QraWNs/edit?usp=sharing)
